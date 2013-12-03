@@ -1,0 +1,8 @@
+size 2
+Results for TCP/Linux/cubic sfqCoDel TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 247293900 rMbps: 36.84 fctMs: 1033 abytes: 247293900 aMbps: 36.838 sndrttMs 157.7 rcdrttMs 154.5 s_util: 12.36 r_util: 12.36 onperc: 53.7
+conn: 1 rbytes: 326695320 rMbps: 52.49 fctMs: 1158 abytes: 326473560 aMbps: 52.454 sndrttMs 157.6 rcdrttMs 153.4 s_util: 12.72 r_util: 12.72 onperc: 49.8
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2

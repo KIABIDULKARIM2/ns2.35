@@ -1,0 +1,4 @@
+size 2
+Results for TCP/Newreno DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 46762380 rMbps: 7.91 fctMs: 892 abytes: 46762380 aMbps: 7.910 sndrttMs 158.6 rcdrttMs 159.5 s_util: 10.82 r_util: 10.82 onperc: 47.3
+conn: 1 rbytes: 116596620 rMbps: 18.82 fctMs: 1033 abytes: 116010720 aMbps: 18.725 sndrttMs 154.8 rcdrttMs 157.7 s_util: 11.70 r_util: 11.71 onperc: 49.6

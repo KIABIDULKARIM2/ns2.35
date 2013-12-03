@@ -1,0 +1,6 @@
+tracing OFF for connection 0: none
+tracing OFF for connection 1: none
+size 2
+Results for TCP/Rational DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 65201220 rMbps: 11.29 fctMs: 825 abytes: 65201220 aMbps: 11.286 sndrttMs 150.7 rcdrttMs 151.3 s_util: 11.22 r_util: 11.22 onperc: 46.2
+conn: 1 rbytes: 78689520 rMbps: 11.52 fctMs: 1093 abytes: 78689520 aMbps: 11.520 sndrttMs 150.6 rcdrttMs 151.1 s_util: 11.25 r_util: 11.25 onperc: 54.6

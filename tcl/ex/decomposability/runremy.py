@@ -57,10 +57,10 @@ if __name__ == '__main__':
     sd_file   = config.sdpairs
 
     simtime = 100
-    iterations = 16
+    iterations = 32
 
     protolist = config.proto.split() # which transport protocol(s) are we using?
-    onofftimes = [0.5]
+    onofftimes = [1.0]
     avgbytes = 100000 # from Allman's March 2012 data and 2013 CCR paper
     worktypes = ['Exponential']
 

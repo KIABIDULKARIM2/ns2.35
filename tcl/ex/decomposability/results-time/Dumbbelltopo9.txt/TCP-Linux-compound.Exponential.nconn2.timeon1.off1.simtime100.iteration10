@@ -1,0 +1,13 @@
+size 2
+Results for TCP/Linux/compound DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 56693700 rMbps: 8.89 fctMs: 1063 abytes: 56693700 aMbps: 8.891 sndrttMs 626.8 rcdrttMs 595.5 s_util: 9.56 r_util: 9.56 onperc: 51.0
+conn: 1 rbytes: 3652740 rMbps: 0.54 fctMs: 1012 abytes: 3652740 aMbps: 0.545 sndrttMs 234.6 rcdrttMs 210.3 s_util: 7.75 r_util: 7.75 onperc: 53.6
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca compound
+cmd set_ca_default_param linux debug_level 2
+0x25f8fc0 resizing timestamp table
+0x25f8fc0 resizing timestamp table
+0x25f8fc0 resizing timestamp table
+0x25f8fc0 resizing timestamp table
+0x25f8fc0 resizing timestamp table

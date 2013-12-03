@@ -1,0 +1,4 @@
+size 2
+Results for TCP/Vegas DropTail TCPSink over 100 seconds:
+conn: 0 rbytes: 5127980 rMbps: 0.71 fctMs: 1279 abytes: 5339880 aMbps: 0.742 sndrttMs 150.9 rcdrttMs 151.0 s_util: 8.50 r_util: 8.46 onperc: 57.6
+conn: 1 rbytes: 1104730 rMbps: 0.18 fctMs: 1009 abytes: 1150380 aMbps: 0.186 sndrttMs 150.7 rcdrttMs 150.7 s_util: 7.12 r_util: 7.08 onperc: 49.5

@@ -1,0 +1,8 @@
+size 2
+Results for TCP/Linux/cubic DropTail TCPSink/Sack1 over 100 seconds:
+conn: 0 rbytes: 4422600 rMbps: 0.61 fctMs: 1229 abytes: 4422600 aMbps: 0.613 sndrttMs 210.9 rcdrttMs 188.8 s_util: 7.97 r_util: 7.97 onperc: 57.8
+conn: 1 rbytes: 166012560 rMbps: 24.10 fctMs: 1198 abytes: 166012560 aMbps: 24.100 sndrttMs 386.4 rcdrttMs 360.8 s_util: 11.04 r_util: 11.04 onperc: 55.1
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2
+cmd select_ca cubic
+cmd set_ca_default_param linux debug_level 2

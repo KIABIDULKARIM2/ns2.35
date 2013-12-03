@@ -1,0 +1,4 @@
+size 2
+Results for TCP/Reno/XCP XCP TCPSink/XCPSink over 100 seconds:
+conn: 0 rbytes: 334494720 rMbps: 45.67 fctMs: 1247 abytes: 333810540 aMbps: 45.573 sndrttMs 164.2 rcdrttMs 165.3 s_util: 12.53 r_util: 12.54 onperc: 58.6
+conn: 1 rbytes: 177579360 rMbps: 32.27 fctMs: 937 abytes: 177579360 aMbps: 32.269 sndrttMs 169.9 rcdrttMs 171.0 s_util: 12.15 r_util: 12.15 onperc: 44.0
